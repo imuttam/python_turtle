@@ -1,0 +1,7 @@
+draw a square
+draw a rectangle
+draw rhombus
+draw trapazium
+draw parallelogram
+
+draw dashed line
